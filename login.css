@@ -1,0 +1,48 @@
+.vb{
+    height: 700px;
+    width: 1000px;
+    background-color: #201b29;
+    text-align: center;
+    align-items: center;
+}
+.body{
+    height: 350px;
+    width: 400px;
+    border: 2px solid white;
+    border-radius: 20px;
+    background-image: url("backgo.jfif");
+    background-size: 100% 100%;
+    position: absolute;
+    margin-top: 250px;
+    margin-left: 300px;
+    box-shadow: -5px -6px 3px white;
+}
+.head{
+    color: #14FF3B;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: underline #ad14ff;
+    font-size: 25px;
+    font-weight: bold;
+}
+#gh{
+    width: 200px;
+    height: 20px;
+    border:transparent;
+    color: white;
+    font-size: 15px;
+    background: transparent;
+}
+#hj{
+    width: 200px;
+    height: 20px;
+    border:transparent;
+    color: white;
+    font-size: 15px;
+    background: transparent;
+    margin-top: 12px;
+}
+#gl{
+    width: 100px;
+    background-color: #eb00a4;
+    border-radius: 10px;
+}
